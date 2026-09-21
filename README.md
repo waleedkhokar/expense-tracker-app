@@ -126,8 +126,8 @@ Expense-Tracker-App-/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ExpenseFlow.git
-cd ExpenseFlow
+git clone https://github.com/waleedkhokar/expenseflow.git
+cd Expense Tracker
 ```
 
 ### 2. Backend Setup
