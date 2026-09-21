@@ -6,8 +6,6 @@
 
 </div>
 
-# 💰 ExpenseFlow — Personal & Shared Expense Tracker
-
 **A modern full-stack mobile expense tracking app — track spending, visualize finances, and manage money on the go.**
 
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -19,29 +17,57 @@
 ![Upstash](https://img.shields.io/badge/Upstash-00E9A3?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
-<div align="center">
-
-# 💰 ExpenseFlow
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Personal+%26+Shared+Expense+Tracker;Built+with+React+Native+%2B+Expo;Node.js+%2B+Express+Backend;Serverless+PostgreSQL+%2B+Upstash+Redis" />
-
-</div>
-
 
 ## 🚀 Project Overview
 
-**ExpenseFlow** is a cross-platform mobile expense tracker built with **React Native (Expo)** and a **Node.js + Express** backend. It lets users log income and expenses, categorize spending, and view real-time financial summaries — all from a clean, mobile-first UI.
+**ExpenseFlow** is a mobile app that helps you keep track of your money — simply and clearly. Log your monthly income, daily expenses, and bills in one place, then instantly see how much you've spent, how much you've saved, and what your total balance looks like. No spreadsheets, no confusion — just tap, add, and stay in control of your finances.
 
-The app handles the full money-management flow: secure sign-in, adding transactions with categories, live balance tracking, and transaction history — backed by a **serverless PostgreSQL database (NeonDB)** and protected with **rate limiting via Upstash Redis**.
+Built with **React Native (Expo)** on the frontend and a **Node.js + Express** backend, ExpenseFlow stores your data securely in a **serverless PostgreSQL database (NeonDB)** and keeps the API protected with **rate limiting via Upstash Redis**.
 
-**What users can do:**
 
+## ✨ What Users Can Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 💼 Manage
 - 🔐 Sign up & sign in securely
 - 💵 Add income & expense transactions
-- 🏷️ Categorize spending (Food, Shopping, Bills, Transport…)
-- 📊 View live balance, income, and expense summary
-- 🗑️ Delete transactions
-- 📱 Works on Android & iOS
+- 🏷️ Categorize spending (Food, Shopping, Bills, Transport)
+- 🗑️ Delete any transaction instantly
+
+</td>
+<td width="50%">
+
+### 📊 Analyze
+- 📈 View live balance & summary
+- 💰 Track income vs. expenses
+- ☁️ Cloud-synced with NeonDB
+- ⚡ Real-time updates via custom hooks
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛡️ Secure
+- 🔒 Rate-limited API (Upstash Redis)
+- 🔑 Environment-based config
+- 🚀 Protected backend routes
+
+</td>
+<td width="50%">
+
+### 📱 Experience
+- Android & iOS ready
+- 🌙 Dark-ready UI (planned)
+- 🎨 Minimal mobile-first design
+- 💨 Smooth animations
+
+</td>
+</tr>
+</table>
 
 ## 📸 Screenshots
 
